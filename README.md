@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Janakiram</h1>
+<h3 align="center">🚀 A Passionate Learner & Future Developer</h3>
 
-<!--
-**JANAKIRAM218/JANAKIRAM218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 I’m currently learning **Git, GitHub, and Web Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I love building and experimenting with code
+
+🎯 2026 Goal: Become a skilled software developer
+
+📫 Reach me at: github.com/JANAKIRAM218
+
+⚡ Fun fact: I believe consistency beats talent!
