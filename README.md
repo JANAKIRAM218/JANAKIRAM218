@@ -178,13 +178,7 @@ const janakiram = {
 
 <br/>
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JANAKIRAM218&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a0a2e&title_color=A855F7&icon_color=DB2777&text_color=E2E8F0&ring_color=7C3AED&include_all_commits=true&count_private=true&border_radius=12"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANAKIRAM218&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a0a2e&title_color=A855F7&text_color=E2E8F0&langs_count=8&border_radius=12"/>
-
-</div>
 
 <div align="center">
 
