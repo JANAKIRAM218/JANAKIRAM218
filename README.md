@@ -11,7 +11,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=JANAKIRAM218&style=for-the-badge&color=7C3AED&labelColor=1a0a2e&label=Profile+Views)](https://github.com/JANAKIRAM218)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/baddula-janakiram-7b436b321/)
 [![Gmail](https://img.shields.io/badge/Gmail-1a0a2e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:baddulabablu05@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/+91_7989462265-1a0a2e?style=for-the-badge&logo=whatsapp&logoColor=25D366)](tel:+917989462265)
 
 </div>
 
