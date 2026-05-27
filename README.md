@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&text=Janakiram%20Baddula&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Open%20Source%20Enthusiast&descSize=16&descAlignY=85&descColor=C4B5FD"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=React+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+C;DSA+%7C+System+Design+%7C+Open+Source;Turning+Ideas+Into+Working+Software+%F0%9F%9A%80;Every+layer+of+the+stack+is+worth+mastering+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=React+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+%E2%80%A2+C;DSA+%7C+System+Design+%7C+Open+Source;Turning+Ideas+Into+Working+Software+%F0%9F%9A%80;Every+layer+of+the+stack+is+worth+mastering+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
@@ -57,7 +57,7 @@ const janakiram = {
   },
 
   stack     : {
-    languages :  ["JavaScript", "Python", "Java", "C"],
+    languages :  ["JavaScript", "Python", "C++"],
     frontend  :  ["React.js", "HTML5", "CSS3"],
     backend   :  ["Node.js", "Express.js"],
     databases :  ["MongoDB", "MySQL"],
@@ -91,8 +91,8 @@ const janakiram = {
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a0a2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-1a0a2e?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-1a0a2e?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![C](https://img.shields.io/badge/C-1a0a2e?style=for-the-badge&logo=c&logoColor=A8B9CC)
+
+
 
 **✦ Frontend ✦**
 
