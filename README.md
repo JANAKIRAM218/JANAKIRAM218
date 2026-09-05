@@ -2,12 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&text=Janakiram%20Baddula&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Open%20Source%20Enthusiast&descSize=16&descAlignY=85&descColor=C4B5FD"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=React+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+%E2%80%A2+C;DSA+%7C+System+Design+%7C+Open+Source;Turning+Ideas+Into+Working+Software+%F0%9F%9A%80;Every+layer+of+the+stack+is+worth+mastering+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=React+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;DSA+%7C+System+Design+%7C+Open+Source;Turning+Ideas+Into+Working+Software+%F0%9F%9A%80;Every+layer+of+the+stack+is+worth+mastering+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/JANAKIRAM218?style=for-the-badge&logo=github&logoColor=white&color=7C3AED&labelColor=1a0a2e&label=Followers)](https://github.com/JANAKIRAM218?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/JANAKIRAM218?style=for-the-badge&logo=github&logoColor=white&color=DB2777&labelColor=1a0a2e&label=Stars)](https://github.com/JANAKIRAM218)
 [![Profile Views](https://komarev.com/ghpvc/?username=JANAKIRAM218&style=for-the-badge&color=7C3AED&labelColor=1a0a2e&label=Profile+Views)](https://github.com/JANAKIRAM218)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/baddula-janakiram-7b436b321/)
 [![Gmail](https://img.shields.io/badge/Gmail-1a0a2e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:baddulabablu05@gmail.com)
@@ -57,11 +56,13 @@ const janakiram = {
   },
 
   stack     : {
-    languages :  ["JavaScript", "Python", "C++"],
-    frontend  :  ["React.js", "HTML5", "CSS3"],
-    backend   :  ["Node.js", "Express.js"],
-    databases :  ["MongoDB", "MySQL"],
-    tools     :  ["Git", "GitHub", "Linux", "VS Code"]
+    languages   :  ["JavaScript", "Python", "C++"],
+    frontend    :  ["React.js", "HTML5", "CSS3"],
+    backend     :  ["Node.js", "Express.js"],
+    databases   :  ["MongoDB", "MySQL"],
+    dataAndAI   :  ["NumPy", "Pandas", "Scikit-learn", "TensorFlow", "PyTorch", "OpenCV"],
+    aiConcepts  :  ["LLMs", "RAG", "Prompt Engineering", "NLP", "Hugging Face", "LangChain"],
+    tools       :  ["Git", "GitHub", "Linux", "VS Code"]
   },
 
   building  :  ["HackHub 🧩", "SmartKrishi 🌾"],
@@ -79,59 +80,9 @@ const janakiram = {
 
 <div align="center">
 
-## 〔 TECH STACK 〕
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**✦ Languages ✦**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-1a0a2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-1a0a2e?style=for-the-badge&logo=python&logoColor=3776AB)
-
-
-
-**✦ Frontend ✦**
-
-![React](https://img.shields.io/badge/React.js-1a0a2e?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-1a0a2e?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1a0a2e?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-**✦ Backend & Runtime ✦**
-
-![Node.js](https://img.shields.io/badge/Node.js-1a0a2e?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-1a0a2e?style=for-the-badge&logo=express&logoColor=FFFFFF)
-
-**✦ Databases ✦**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-1a0a2e?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-1a0a2e?style=for-the-badge&logo=mysql&logoColor=4479A1)
-
-**✦ Tools & Environment ✦**
-
-![Git](https://img.shields.io/badge/Git-1a0a2e?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-1a0a2e?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/Linux-1a0a2e?style=for-the-badge&logo=linux&logoColor=FCC624)
-![VS Code](https://img.shields.io/badge/VS_Code-1a0a2e?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
 ## 〔 WHAT I'M BUILDING 〕
 
 </div>
-
-<br/>
-
-
 
 <br/>
 
@@ -140,50 +91,6 @@ const janakiram = {
 > 🌾 **SmartKrishi** — Empowering Telangana farmers with real-time market prices, personalized crop recommendations, and expert agricultural advice — available in Telugu, Hindi & English. Built for real-world impact. &nbsp;[![Live Demo](https://img.shields.io/badge/Live_Demo-1a0a2e?style=flat-square&logo=vercel&logoColor=A855F7)](https://smart-krishi-app-copy-af655404.base44.app/)
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 〔 CURRENT FOCUS 〕
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| | Focus Area |
-|:---:|:---|
-| ⚛️ | Building full-stack apps end-to-end — React UI → Node.js API → MongoDB / MySQL |
-| 📐 | Mastering System Design — HLD/LLD, caching, sharding, load balancing |
-| 🧠 | Solving DSA daily — graphs, DP, trees, sliding window, greedy algorithms |
-| 🎨 | Advancing React skills — performance, state architecture, accessibility |
-| 🌐 | Contributing to open-source and reading production codebases |
-| 📦 | Shipping HackHub & SmartKrishi to production |
-| 🛠️ | Building in public — daily commits, documented progress |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 〔 GITHUB ANALYTICS 〕
-
-</div>
-
-<br/>
-
-
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JANAKIRAM218&theme=tokyonight&hide_border=true&background=1a0a2e&ring=A855F7&fire=DB2777&currStreakLabel=A855F7&sideLabels=E2E8F0&dates=8B949E&border_radius=12"/>
-
-</div>
 
 <div align="center">
 
@@ -196,8 +103,6 @@ const janakiram = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-
-
 
 ## 〔 PHILOSOPHY 〕
 
